@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{g as o}from"./index-D3jsOSc0.js";o.set(".gsap-box",{opacity:0,scale:.5,y:100});o.to(".gsap-box",{delay:.5,opacity:1,scale:1,y:0,duration:.6,ease:"expo.out"});
