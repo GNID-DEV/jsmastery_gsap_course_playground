@@ -7,6 +7,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig({
   plugins: [tailwindcss()],
+  base: '/jsmastery_gsap_course_playground/',
   build: {
     rollupOptions: {
       input: {
