@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{g as t}from"./index-D3jsOSc0.js";const e=document.querySelector(".repeat"),r=t.from(".card",{y:60,opacity:0,scale:.95,duration:.6,delay:.2,ease:"power4.out",stagger:.2});e.addEventListener("click",()=>{r.restart()});

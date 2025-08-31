@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{g as t}from"./index-D3jsOSc0.js";const o=document.querySelector(".repeat"),r=t.to(".box",{opacity:1,rotation:360,backgroundColor:"#ff6f61",borderRadius:"50%",scale:1.25,duration:2});o.addEventListener("click",()=>{r.restart()});

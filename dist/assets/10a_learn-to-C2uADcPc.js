@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css              */import{g as o}from"./index-D3jsOSc0.js";const t=()=>{o.to(".toast",{y:-120,opacity:1,scale:1,duration:.8,ease:"power4.out",onComplete:()=>{o.to(".toast",{delay:1,y:0,opacity:0,duration:.7,ease:"power.in",onComplete:()=>{setTimeout(t,1e3)}})}})};t();
